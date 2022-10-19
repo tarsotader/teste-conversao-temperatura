@@ -1,4 +1,5 @@
-# Projeto conversão de temperatura
+# Projeto conversão de temperatura é a minha versão editada para a semana de jornada devops - Aluno Tarso Tader Toniolo Torres
+#Versão editada Aluno Tarso Tader Toniolo Torres
 
 ### Sobre o projeto
 O projeto conversão de temperatura é um projeto desenvolvido em NodeJS. O projeto tem como objetivo ser um exemplo para a criação de ambiente com containers usando NodeJS.
